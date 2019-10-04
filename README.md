@@ -34,3 +34,15 @@ You should see something like this:
 ```
 ├─┬ react-component-example@1.0.0 -> /Users/mitch/projects/react-apps/react-component-example
 ```
+
+* * * 
+
+## How this project was created
+
+This is a React / TypeScript project.
+
+```
+npx create-react-app react-component-example-test --typescript
+
+cd react-component-example-test/
+```
