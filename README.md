@@ -5,6 +5,7 @@ Assumes component project is in parallel folder.
 
 ```
 npm run link:sibling
+
 npm start
 ```
 
