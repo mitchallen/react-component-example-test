@@ -10,7 +10,7 @@ npm start
 
 ## Linking to component project
 
-The link:sibling" script does the following:
+The **link:sibling** script does the following:
 
 ```
 sudo npm link ../react-component-example/
