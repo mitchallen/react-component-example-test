@@ -8,6 +8,8 @@ See: https://github.com/mitchallen/react-component-example
 After building the project above, clone this project to a parallel folder and do the following:
 
 ```
+npm install
+
 npm run link:sibling
 
 npm start
